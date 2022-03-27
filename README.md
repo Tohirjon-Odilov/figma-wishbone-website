@@ -3,4 +3,4 @@ homework
 
 ![ Website!](img/readme.png)
 
-# Responsive Website
+# Responsive Animation website
